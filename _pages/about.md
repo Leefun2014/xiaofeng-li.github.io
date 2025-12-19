@@ -26,12 +26,12 @@ My current work spans the following areas:
 
 <!-- First row: two images side by side -->
 <div style="text-align:center; margin-bottom:15px;">
-  <img src="https://leefun2014.github.io/xiaofengli.github.io/images/Logos/UHM.png" 
+  <img src="https://leefun2014.github.io/xiaofeng-li.github.io/images/Logos/UHM.png" 
        style="height:100px; max-height:50px; margin-right:15px;">
-  <img src="https://leefun2014.github.io/xiaofengli.github.io/images/Logos/TIM School.png" 
+  <img src="https://leefun2014.github.io/xiaofeng-li.github.io/images/Logos/TIM School.png" 
        style="height:100px; max-height:50px;">
 </div>
 
 <!-- Second row: single image -->
 <div style="text-align:center;">
-  <img src="https://leefun2014.github.io/xiaofengli.github.io/images/Logos/iTT.png" 
+  <img src="https://leefun2014.github.io/xiaofeng-li.github.io/images/Logos/iTT.png" 
